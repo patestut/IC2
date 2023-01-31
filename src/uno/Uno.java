@@ -14,7 +14,6 @@ public class Uno {//Choesion helps to convert card game to uno game.
     public void setS(Suit S) {
         this.S = S;
     }
-
     public Value getV() {
         return v;
     }
